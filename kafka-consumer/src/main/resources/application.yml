@@ -1,0 +1,6 @@
+kafka:
+  boostrapAddress: localhost:9092
+  groupId: consumerGroup1
+
+server:
+  port: 8081
